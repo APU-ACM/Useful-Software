@@ -2,9 +2,13 @@
 
 This is a list of IDEs, extensions, student discounts, and any other software-related stuff that students who do anything CS-related might find useful.
 
+## Online Tools/Student Discounts
+
 ## GitHub Student Developer Pack
 
 First and foremost, GitHub has a student developer package that gives you a ton of benefits not only from GitHub, but also from some big names in the CS industry, like free AWS credits, MongoDB credits, free paid app subscriptions while you are a student, and more!  When I applied about a year ago, APU was not on the list of pre-approved univerisities, so it took a week for my verification to go through.  It's definitely worth getting, as it's valid for the duration that you are a student.  Details and form to submit [here](https://education.github.com/pack).
+
+## Cross-Platform Software
 
 ## JetBrains IDEs
 

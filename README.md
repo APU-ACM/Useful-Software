@@ -24,7 +24,7 @@ Since the JetBrain's IDEs are all based off of the same JetBrains "Core", most p
 
 This plugin is absolutely essential in my opinion.  The stock UI look and feel in JetBrains IDEs isn't as bad as it is in Eclipse, but it's definitrely not beautiful.  This plugin gives you a dozen or so different UI theme options that look modern and clean, and they completely restyle every component of the UI to match.  My favorite is Material Oceanic.  Link to download [here](https://plugins.jetbrains.com/plugin/8006-material-theme-ui), but once again, installing from the plugin manager in each IDE is easier.
 
-### Extra Icons by Jonathan Lermitage
+### Extra Icons
 
 All of the JetBrains IDEs have some IDE-specific config files that live in a folder called `.idea` at the root of your project directory.  Additoinally, each IDE usually creates a `.gitignore` file that lives in the root folder of your project directory.  You might also have Travis or CircleCI config files.  All of these will use generic file or folder icons in the project navigator by default, but this plugin adds custom file and folder icons for each of these special files/folders.  It supports many more files than I've listed here, so it's definitely worth the download.  Link [here](https://plugins.jetbrains.com/plugin/11058-extra-icons), but again, just use the plugin manager in each IDE.
 
@@ -39,3 +39,7 @@ This is a simple plugin that provides the ability to switch a statement or varia
 ### WakaTime
 
 This plugin works with many other IDEs in addition to the JetBrains suite, including Eclipse, VSCode, Xcode, Notepad++, Visual Studio, and more.  It accurately keeps track of the amount of time you spend coding, breaking it down into statistics on the amount of time spent in each lanugage, in each IDE, in each project, and on each computer.  You get emailed a weekly report, all for free.  If you want to keep a history of the time you spend coding (besides the emails), you can purchase a paid plan.  Link to plugin [here](https://plugins.jetbrains.com/plugin/7425-wakatime) and website with instructions for non-JetBrains IDEs [here](https://wakatime.com/).
+
+### Battery Status
+
+This plugin is really simple, but really useful on a laptop: it displays your current laptop battery percentage in the toolbar at the bottom of the IDE.  This is really helpful in fullscreen mode since your battery indicator is usually hidden in fullscreen.  Link [here](https://plugins.jetbrains.com/plugin/12321-battery-status).

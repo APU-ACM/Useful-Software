@@ -47,3 +47,9 @@ This plugin works with many other IDEs in addition to the JetBrains suite, inclu
 #### Battery Status
 
 This plugin is really simple, but really useful on a laptop: it displays your current laptop battery percentage in the toolbar at the bottom of the IDE.  This is really helpful in fullscreen mode since your battery indicator is usually hidden in fullscreen.  Link [here](https://plugins.jetbrains.com/plugin/12321-battery-status).
+
+## Platform Specific Software (Mac)
+
+### Flycut Clipboard Manager
+
+This is a free utility avaliable from the Mac App Store that keeps a history of everything you cut/copied.  You can specifiy the number of "clippings" you'd like it to remember, and you can even sync your clippings across devices with iCloud.  This app is very helpful when coding because you can copy many pieces of code and paste the exact ones you want wherever you want them.  Link to Flycut in the Mac App Store [here](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12).

@@ -53,3 +53,13 @@ This plugin is really simple, but really useful on a laptop: it displays your cu
 ### Flycut Clipboard Manager
 
 This is a free utility avaliable from the Mac App Store that keeps a history of everything you cut/copied.  You can specifiy the number of "clippings" you'd like it to remember, and you can even sync your clippings across devices with iCloud.  This app is very helpful when coding because you can copy many pieces of code and paste the exact ones you want wherever you want them.  Link to Flycut in the Mac App Store [here](https://apps.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12).
+
+### Xcode IDE
+
+If you have a Mac, chances are you have an iPhone.  If you've ever wanted to develop an app for any of Apple's software platforms (iOS, iPadOS, watchOS, tvOS, and macOS), Xcode is the go-to app.  All of Apple's platforms support apps built in a newer language called Swift.  Swift is basically the best of Python combined with the best of Java.  It's very easy to learn, but it's an incredibly powerful language with good safety features and performance built in.  Xcode includes the Swift langauge, as well as all the tools needed to built great apps with Swift.  Download Xcode from the Mac App Store for free [here](https://apps.apple.com/us/app/xcode/id497799835?mt=12).
+
+## Platform Specific Software (Windows)
+
+### Notepad++
+
+Notepad++ is a free text editor that supports many different programming languages.  This of it like VSCode without the ability to compile or run code.  It's very helpful for editing any sort of code-related file, and it has lots of great tools to make writing code easier.  Download [here](https://notepad-plus-plus.org/downloads/).

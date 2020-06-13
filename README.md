@@ -2,11 +2,10 @@
 
 This is a list of IDEs, extensions, student discounts, and any other software-related stuff that students who do anything CS-related might find useful.
 
-[Online Tools/Student Discounts](#online-toolsstudent-discounts)
-
-[Cross-Platform Software](#cross-platform-software)
-
-[Platform Specific Software (Mac)](#platform-specific-software-mac)
+[Online Tools/Student Discounts](#online-toolsstudent-discounts)\
+[Cross-Platform Software](#cross-platform-software)\
+[Platform Specific Software (Mac)](#platform-specific-software-mac)\
+[Platform Specific Software (Windows)](#platform-specific-software-windows)
 
 ## Online Tools/Student Discounts
 

@@ -33,6 +33,10 @@ Since the JetBrain's IDEs are all based off of the same JetBrains "Core", most p
 
 This plugin is absolutely essential in my opinion.  The stock UI look and feel in JetBrains IDEs isn't as bad as it is in Eclipse, but it's definitrely not beautiful.  This plugin gives you a dozen or so different UI theme options that look modern and clean, and they completely restyle every component of the UI to match.  My favorite is Material Oceanic.  Link to download [here](https://plugins.jetbrains.com/plugin/8006-material-theme-ui), but once again, installing from the plugin manager in each IDE is easier.
 
+#### JetBrains Mono Font
+
+Not really a plugin, but still essential.  Material Theme UI will change the default IDE font from JetBrains Mono to Menlo.  JetBrains Mono was specifically designed for editing and reading code, and it is easier to read than Menlo in my opinion. To re-enable JetBrains Mono as the IDE font, go to Preferences/Settings>Editor>Font and choose JetBrains Mono. 13 pt font feels a bit big for my 15" laptop, so I would choose 12 pt with 1.2 line spacing.  You do not need to set a fallback font as JetBrains Mono supports a wide variety of languages and characters.
+
 #### Extra Icons
 
 All of the JetBrains IDEs have some IDE-specific config files that live in a folder called `.idea` at the root of your project directory.  Additoinally, each IDE usually creates a `.gitignore` file that lives in the root folder of your project directory.  You might also have Travis or CircleCI config files.  All of these will use generic file or folder icons in the project navigator by default, but this plugin adds custom file and folder icons for each of these special files/folders.  It supports many more files than I've listed here, so it's definitely worth the download.  Link [here](https://plugins.jetbrains.com/plugin/11058-extra-icons), but again, just use the plugin manager in each IDE.

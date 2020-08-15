@@ -29,6 +29,10 @@ You can verify your student eligibilty in a variety of ways, but if you already 
 
 Since the JetBrain's IDEs are all based off of the same JetBrains "Core", most plugins can be installed in all of their IDEs, although there are some exceptions (mainly language support plugins depending on the IDE's compiler).  I have provided links alongside each of these, but I think it's better to go to the built-in plugin manager in each IDE and install from there.  Go to Preferences (Mac) or Settings (Windows) > Plugins > Marketplace and search for the name of each one.  Super easy and conveinient.
 
+#### Space
+
+If you plan on contributing to ACM @ APU's GitHub, you will need to download the Space plugin from JetBrains.  It allows you to connect to ACM @ APU's Space directly, and you can manage pull requests, git commits, and some other Space features directly from any JetBrains IDE.  Link to download [here](https://plugins.jetbrains.com/plugin/13362-space), but installing plugins directly from the plugin manager in each IDE is easier.
+
 #### Material Theme UI
 
 This plugin is absolutely essential in my opinion.  The stock UI look and feel in JetBrains IDEs isn't as bad as it is in Eclipse, but it's definitrely not beautiful.  This plugin gives you a dozen or so different UI theme options that look modern and clean, and they completely restyle every component of the UI to match.  My favorite is Material Oceanic.  Link to download [here](https://plugins.jetbrains.com/plugin/8006-material-theme-ui), but once again, installing from the plugin manager in each IDE is easier.
